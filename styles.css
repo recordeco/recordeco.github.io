@@ -1,0 +1,41 @@
+body {
+    font-family:'Montserrat',sans-serif;
+    background-color: rgb(175, 175, 175);
+}
+.titulo {
+    font-size: 50px;
+}
+a {
+    color: black;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 30px;
+}
+.form {
+    background-color: rgb(110, 110, 110);
+    padding: 100px;
+}
+
+#nombre {
+    background-color: rgb(255, 255, 255);
+}
+#email {
+    background-color: rgb(80, 80, 80);
+}
+#mensaje {
+    background-color: rgb(26, 26, 26);
+}
+.imagen {
+    max-width: 40%;
+}
+.personal {
+    display: flex;
+    justify-content: center;
+}
+.presentacion {
+    padding-right: 10%;
+    padding-left: 10%;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
